@@ -1,0 +1,5 @@
+1. Read backwards
+	When debugging, and if you are struggling to find the error, read your code backwards.
+	This is a trick to make your brain, not automatically attach meaning to familiar LOOKING words, that may infact be spelled wrong, or have syntax errors.
+	
+2. 

@@ -1,0 +1,6 @@
+Errors:
+	Syntax errors - Errors in our code, for example leaving out a closing quotes mark (")
+	
+	Indentation errors - when you have a rogue space somewhere in your code.
+	
+	
