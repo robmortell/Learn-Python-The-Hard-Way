@@ -1,14 +1,11 @@
 # Write your code below this line 👇
 
-# Maths & Numbering
-
 # Python will always evaluate the arithmetic operators first (** is highest, then multiplication/division, then addition/subtraction).
 # Next comes the relational operators.
 # Finally, the logical operators are done last.
 
-# (%)
-# Here X and Y are two integer numbers, and the modulus (%) is used in between
-# to get the remainder where the first number (X) is divided by the second number (Y).
+# % - This is modulus, whereby when you have two numbers, x and y, this is the remainder of dividing x by y
+# % = J, where x divided by y, with J remaining
 # For example, 5 % 2, will give you 1, because 2 into 5 goes twice, with 1 remaining.
 
 from time import sleep
@@ -28,3 +25,17 @@ sleep(1)
 print("Is it true that 3 + 2 < 5 -7?")
 sleep(1)
 print(3 + 2 < 5 - 7)
+sleep(1)
+print("What is 3 + 2?", 3 + 2)
+sleep(1)
+print("What is 5 - 7?", 5 - 7)
+sleep(1)
+print("Oh, that's why it's false.")
+sleep(1)
+print("How about some more.")
+sleep(1)
+print("Is it greater?", 5 > -2)
+sleep(1)
+print("Is it greater or equal?", 5 >= -2)
+sleep(1)
+print("Is it less or equal?" , 5 <= 2)
